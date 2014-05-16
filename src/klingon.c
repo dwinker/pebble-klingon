@@ -1,4 +1,3 @@
-// $Revision: 1.2 $
 #include "pebble.h"
 
 Window    *window;

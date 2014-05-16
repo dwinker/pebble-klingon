@@ -1,4 +1,3 @@
-# $Id: wscript,v 1.1 2014/05/16 14:19:22 dwinker Exp $
 #
 # This file is the default set of rules to compile a Pebble project.
 #
