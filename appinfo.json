@@ -1,0 +1,42 @@
+{
+  "uuid": "220f957b-9ff1-48ef-9e8a-2a46a30f5727",
+  "shortName": "Q'onoS Chrono",
+  "longName": "Q'onoS Chrono (in Klingon)",
+  "companyName": "Harley",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/KlingonInsigniaIcon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_KLINGON_25",
+        "file": "fonts/klingon_font.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_KLINGON_40",
+        "file": "fonts/klingon_font.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_KLINGON_53",
+        "file": "fonts/klingon_font.ttf"
+      }
+    ]
+  }
+}
